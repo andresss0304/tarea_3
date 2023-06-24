@@ -68,7 +68,7 @@ st_crs(orquideas) <- 4326
 
 ```
 
-## Tabla de riqueza de orquideas en areas de conservacion
+## Tabla de riqueza de orquídeas en areas de conservacion
 ```{r}
 #| label: tabla-riquezas
 #| warning: false
@@ -109,7 +109,7 @@ areas_union_riqueza |>
   )
 ```
 
-## Maoa de riqueza de especies de orquideas en areas de conservación
+## Mapa de riqueza de especies de orquídeas en areas de conservación
 ```{r}
 #| label: mapa-riqueza
 #| warning: false
@@ -197,7 +197,7 @@ leaflet() |>
   hideGroup("Registros de presencia") 
 ```
 
-## Grafico de barras de riqueza de especies de orquídeas en areas de conservación
+## Gráfico de barras de riqueza de especies de orquídeas en areas de conservación
 ```{r}
 #| label: grafico-riqueza-especies
 #| warning: false
